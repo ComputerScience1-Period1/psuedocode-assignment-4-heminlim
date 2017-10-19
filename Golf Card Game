@@ -9,8 +9,7 @@ Q = 12
 K = 0
 Scores:A sheet of paper and write down the players’ names.Doesn’t require a separate scorekeeper.
 
-Take out the two Joker cards from the deck.
-Designate a dealer and deal 4 cards to each player, one at a time, face down, starting to the dealer’s left. 
+The computer should deal 4 random cards to each player.
 Players can not look at their cards and place them in two rows of two, one row above the other. 
 The remaining portion of the deck is the draw pile, which is placed faced down and an empty space next to it for the discard pile that will be created once the game starts.
 Each player first turns 2 cards of his choice up in front of himself, one above the other.
