@@ -1,5 +1,5 @@
 Golf Card Game
-Players: At least 2 and up to 10 players
+Players: At least 2 and up to 10 players.
 To win: Get the lowest sum of all the cards.
 The value of the cards are:
 A = 1
@@ -7,14 +7,35 @@ A = 1
 J  = 11
 Q = 12
 K = 0
-Joker = -2
-Scores: Either a sheet of paper and write down the players’ names and keep score or just keep in head. Doesn’t require a separate scorekeeper.
+Scores:A sheet of paper and write down the players’ names.Doesn’t require a separate scorekeeper.
 
-1. Designate a dealer and deal 4 cards to each player, one at a time, face down, starting to the dealer’s left. Players can not look at their cards and place them in two rows of two, one row above the other. The remaining portion of the deck is the draw pile (faced down) and a space next to it for a discard pile.
-2. Each player first turns 2 cards of his choice up in front of himself, one above the other
-3. The first player (person left to the dealer), draws a card from a draw pile and looks at it. Then the player can choose to either discard it in the discard pile, or switch it out with one of their cards; they can switch it out either from the ones that are faced up or down.
-4. Going clockwise, the next player can either pick up the card the player before them discarded, or drawa new card from the draw pile and has the same options as the player before.
-5. The next player has the same options as the player before. They can either pick up the card the player before them discarded, or draw a new card from the draw pile. Then they can choose to either discard it and place it in the discard pile, or to switch it out with one of their cards; they can switch it out either from the ones that are faced up or down.
-6. After all the players have gone at least 3 times, a player who thinks that they have the lowest sum of the cards can knock on the table/ground. 
-7. Then the players get one more round.
-8. Once that round is over, all the players flip over the other two crads they had faced down and if the player who knocked actually has the lowest sum, they earn one point. If not, they lose one point, but the player who actually had the lowest sum didn’t knock, they do not lose or earn any points.
+Take out the two Joker cards from the deck.
+Designate a dealer and deal 4 cards to each player, one at a time, face down, starting to the dealer’s left. 
+Players can not look at their cards and place them in two rows of two, one row above the other. 
+The remaining portion of the deck is the draw pile, which is placed faced down and an empty space next to it for the discard pile that will be created once the game starts.
+Each player first turns 2 cards of his choice up in front of himself, one above the other.
+Every round, the player has to switch out a card.
+The first player to take a turn is the person left to the dealer.
+While no one has knocked, the player draws one card from a draw pile and looks at it. 
+  Then the player can choose to either discard it in the discard pile, or switch it out with one of their cards.
+  If they switch it out with a card that was faced up:
+    They place the new card faced up.
+  It they switch it out with a card that was faced down:
+    They place the new card faced down.
+  Going clockwise, if the player before them has discarded a card:
+    The next player can either pick up the card the player before them has discarded, or draw a new card from the draw pile.
+  If  the player chooses to pick up the discarded card:
+    They can switch it out with a card that was faced up, by also placing it faced up, or with a card that was faced down by placing it faced down.
+  If the player chooses to pick up a new card from the draw pile:
+    They can switch it out with a card that was faced up, by also placing it faced up, or with a card that was faced down by placing it faced down.
+The next player can either pick up the card the player before them discarded, or draw a new card from the draw pile. 
+Then they can choose to either discard it and place it in the discard pile, or to switch it out with one of their cards; they can switch it out either from the ones that are faced up or down.
+After all the players have gone at least 3 times, a player who thinks that they have the lowest sum of the cards can knock on the table/ground but does not have to knock right after the third turn.
+Then the players get one more round.
+Once that round is over, all the players flip over the other two crads they had faced down and if the player who knocked actually has the lowest sum, they earn one point. 
+If the player doesn’t have the lowest total score:
+ they lose one point, 
+  If the player who actually had the lowest sum didn’t knock:
+they do not lose or earn any points.
+
+   
