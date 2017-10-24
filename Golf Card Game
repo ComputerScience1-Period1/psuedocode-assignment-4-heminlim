@@ -28,14 +28,14 @@ If the player chooses to take a card from the discard pile:
   He must replace one of his layout cards with it; the player cannot put it back on the discard pile.
 While no one has knocked, the player takes a card from the draw pile or the discard pile on their turn.
   Then the player can choose to either discard it, or switch it out with one of their cards.
- If the player draws a card from the deck/draw pile:
-  He can look at it and choose to either trade it out ,or not with one of his cards.
-If he chooses a faced-down card to switch out, and he looks at it:
-  He has to replace the card he drew and place the card originally from his layout in the discard pile.
-If the player draws a card from the deck/draw pile, and he doesn't want to switch it out with any of his cards: 
-  He places it faced up in the discard pile.
-If the player chooses to take a card from the discard pile:
-  He must replace one of his layout cards with it; the player cannot put it back on the discard pile.
+  If the player draws a card from the deck/draw pile:
+    He can look at it and choose to either trade it out ,or not with one of his cards.
+  If he chooses a faced-down card to switch out, and he looks at it:
+    He has to replace the card he drew and place the card originally from his layout in the discard pile.
+  If the player draws a card from the deck/draw pile, and he doesn't want to switch it out with any of his cards: 
+    He places it faced up in the discard pile.
+  If the player chooses to take a card from the discard pile:
+    He must replace one of his layout cards with it; the player cannot put it back on the discard pile.
 The next players repeat these steps for three rounds.
 Once a player thinks that he has the lowest total score of his cards, he can end the game at the end of that round by knocking before it becomes his turn again.
 Once that round is over, all the players flip over the other two crads they had faced down and if the player who knocked actually has the lowest sum, they earn one point. 
